@@ -14,7 +14,7 @@ AI generates a simple and clear story based on your images
 Narration audio is created automatically
 
 🧠 Tech Stack
-
+ 
 Python
 
 Streamlit
