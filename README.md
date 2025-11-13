@@ -6,7 +6,7 @@ AI Story Generator is a simple web app where you can upload 1–10 images, choos
 Features
 
 Upload multiple images (1–10)
-
+ 
 Choose a story style (Comedy, Thriller, Sci-Fi, Adventure, etc.)
 
 AI generates a simple and clear story based on your images
