@@ -17,7 +17,7 @@ Narration audio is created automatically
  
 Python
 
-Streamlit
+Streamlit 
 
 Google Gemini API (for story generation)
 
